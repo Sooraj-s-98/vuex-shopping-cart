@@ -22,3 +22,18 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+# cart-backend
+
+## Project setup
+```
+cd cart-backend
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+node server
+
+```
